@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6c638acc.css",
+    "main.js": "/static/js/main.ff27a08b.js",
+    "static/media/pawel-czerwinski-4gWNAWeOvP0-unsplash.jpg": "/static/media/pawel-czerwinski-4gWNAWeOvP0-unsplash.9d90379da6422fb95d0b.jpg",
+    "static/media/pexels-skylar-kang-6044820.jpg": "/static/media/pexels-skylar-kang-6044820.12959c35809064d1a5ff.jpg",
+    "static/media/monFiesta.png": "/static/media/monFiesta.4d7798c65b12f00b420e.png",
+    "static/media/148-1488107_monster-energy-drink-transparent-background.png": "/static/media/148-1488107_monster-energy-drink-transparent-background.97a8c55e98438d699e92.png",
+    "static/media/Jellee-Roman.ttf": "/static/media/Jellee-Roman.6bb8ef104512f1831eff.ttf",
+    "static/media/MAGICNIGHT.ttf": "/static/media/MAGICNIGHT.3fb8c168933badec6a97.ttf",
+    "static/media/text-1690524227521.png": "/static/media/text-1690524227521.98ef859e0ff0a353b21c.png",
+    "static/media/chaos-green.png": "/static/media/chaos-green.acbbc8e9e11fe84a8fef.png",
+    "index.html": "/index.html",
+    "main.6c638acc.css.map": "/static/css/main.6c638acc.css.map",
+    "main.ff27a08b.js.map": "/static/js/main.ff27a08b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c638acc.css",
+    "static/js/main.ff27a08b.js"
+  ]
+}
